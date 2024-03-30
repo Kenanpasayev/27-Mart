@@ -9,7 +9,7 @@ namespace task_Encapsulation
     //internal class Doctor : Human
     //{
     //    public string Speciality { get; set; }
-        
+
     //    public Doctor(string name, string surname, string gender, byte age, string speciality, int experience) : base(name, surname, gender, age)
     //    {
     //        Name = name;
@@ -17,10 +17,10 @@ namespace task_Encapsulation
     //        Gender = gender;
     //        Age = age;
     //        Speciality = speciality;
-    //        _Experience = experience;
+    //        Experience = experience;
     //    }
     //    private int _Experience;
-    //        public int Experience
+    //    public int Experience
     //    {
     //        get { return _Experience; }
     //        set
@@ -31,9 +31,9 @@ namespace task_Encapsulation
     //            }
     //        }
     //    }
-    //    public new void GetInfo()
+    //    public new  string GetInfo()
     //    {
-    //        Console.WriteLine($"Speciality:{Speciality},Experience:{Experience}");
+    //        return $"Name:{Name},Surname:{Surname},Gender:{Gender},Age:{_Age},Speciality:{Speciality},Experience:{Experience}";
     //    }
     //    public new void ShowInfo()
     //    {
@@ -41,4 +41,4 @@ namespace task_Encapsulation
     //    }
 
     //}
-    }
+}

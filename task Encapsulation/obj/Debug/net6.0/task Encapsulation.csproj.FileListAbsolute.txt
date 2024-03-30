@@ -12,3 +12,4 @@ C:\Users\LENOVO\source\repos\task Encapsulation\task Encapsulation\obj\Debug\net
 C:\Users\LENOVO\source\repos\task Encapsulation\task Encapsulation\obj\Debug\net6.0\task Encapsulation.pdb
 C:\Users\LENOVO\source\repos\task Encapsulation\task Encapsulation\obj\Debug\net6.0\task Encapsulation.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\task Encapsulation\task Encapsulation\obj\Debug\net6.0\ref\task Encapsulation.dll
+C:\Users\LENOVO\source\repos\task Encapsulation\task Encapsulation\obj\Debug\net6.0\task Encapsulation.sourcelink.json

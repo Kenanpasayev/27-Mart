@@ -6,30 +6,30 @@ using System.Threading.Tasks;
 
 namespace task_Encapsulation
 {
-    //internal class Person
+    //internal class person
     //{
-    //    public string Name;
-    //    public string Surname;
-    //    private byte _Age;
-    //    public Person(string name, string surname, byte age)
+    //    public string name;
+    //    public string surname;
+    //    private byte _age;
+    //    public person(string name, string surname, byte age)
     //    {
-    //        Name = name;
-    //        Surname = surname;
-    //        _Age = age;
+    //        name = name;
+    //        surname = surname;
+    //        age = age;
     //    }
 
-    //    public byte Age
+    //    public byte age
     //    {
-    //        get { return _Age; }
+    //        get { return _age; }
     //        set
     //        {
-    //            if (Age > 0)
+    //            if (value > 0)
     //            {
-    //                _Age = value;
+    //                _age = value;
     //            }
     //            else
     //            {
-    //                Console.WriteLine("Yas menfi ola bilmez");
+    //                Console.writeline("yas menfi ola bilmez");
     //            }
     //        }
 

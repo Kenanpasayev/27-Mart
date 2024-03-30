@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|c:\\users\\lenovo\\source\\repos\\task encapsulation\\task encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|solutionrelative:task encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|c:\\users\\lenovo\\source\\repos\\task encapsulation\\task encapsulation\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|solutionrelative:task encapsulation\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|c:\\users\\lenovo\\source\\repos\\task encapsulation\\task encapsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|solutionrelative:task encapsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|c:\\users\\lenovo\\source\\repos\\task encapsulation\\task encapsulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|solutionrelative:task encapsulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|c:\\users\\lenovo\\source\\repos\\task encapsulation\\task encapsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|solutionrelative:task encapsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|c:\\users\\lenovo\\source\\repos\\task encapsulation\\task encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|solutionrelative:task encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|c:\\users\\lenovo\\source\\repos\\task encapsulation\\task encapsulation\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|solutionrelative:task encapsulation\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D07B7D52-5E64-42FE-A3F1-C8AB761A624E}|task Encapsulation\\task Encapsulation.csproj|c:\\users\\lenovo\\source\\repos\\task encapsulation\\task encapsulation\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -40,36 +40,24 @@
               "RelativeDocumentMoniker": "task Encapsulation\\Human.cs",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Human.cs",
               "RelativeToolTip": "task Encapsulation\\Human.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T15:48:24.618Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Student.cs",
-              "RelativeDocumentMoniker": "task Encapsulation\\Student.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Student.cs",
-              "RelativeToolTip": "task Encapsulation\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T14:36:20.892Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Person.cs",
               "RelativeDocumentMoniker": "task Encapsulation\\Person.cs",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Person.cs",
               "RelativeToolTip": "task Encapsulation\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T14:35:57.946Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -77,25 +65,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Student.cs",
+              "RelativeDocumentMoniker": "task Encapsulation\\Student.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Student.cs",
+              "RelativeToolTip": "task Encapsulation\\Student.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:36:20.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Doctor.cs",
               "RelativeDocumentMoniker": "task Encapsulation\\Doctor.cs",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Doctor.cs",
               "RelativeToolTip": "task Encapsulation\\Doctor.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAHAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T15:49:19.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Program.cs",
               "RelativeDocumentMoniker": "task Encapsulation\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\task Encapsulation\\task Encapsulation\\Program.cs",
               "RelativeToolTip": "task Encapsulation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T14:34:23.261Z",
               "EditorCaption": ""

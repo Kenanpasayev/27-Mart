@@ -31,9 +31,9 @@ namespace task_Encapsulation
     //            }
     //        }
     //    }
-    //    public void GetInfo()
+    //    public string GetInfo()
     //    {
-    //        Console.WriteLine($"Name:{Name},Surname:{Surname},Gender:{Gender},Age:{_Age}");
+    //      return  $"Name:{Name},Surname:{Surname},Gender:{Gender},Age:{_Age}";
     //    }
     //    public void ShowInfo()
     //    {
